@@ -1,9 +1,11 @@
 # node_mongo_express
 ### A ready to use boiler plate for node, mongodb and express stack. Purpose is to demonstrate docker and docker-compose
 
-#### To start the application
 
 ### With Docker
+
+#### To start the application
+
 
 Step 1: Create docker network
 
