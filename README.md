@@ -3,7 +3,7 @@
 
 #### To start the application
 
-### Docker
+### With Docker
 
 Step 1: Create docker network
 
